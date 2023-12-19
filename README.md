@@ -29,7 +29,16 @@ press [here](https://github.com/Bink-lab/PD-Powershell-Downloader/tree/main?tab=
 
 Powershell downloader (PD) uses python code that has been compiled to a .EXE file using ``Nuitka``.
 
+To make this possible the program uses ``Invoke-WebRequest`` to install the files.
+
 For more information on ``Nuitka`` please go to their [repository](https://github.com/Nuitka/Nuitka/tree/develop)
+****************
+
+# 💻 Download
+
+To download PD head over to the [releases](https://github.com/Bink-lab/PD-Powershell-Downloader/releases) tab.
+
+Go to the latest version and install, unless you would like an older version of PD.
 ****************
 
 
