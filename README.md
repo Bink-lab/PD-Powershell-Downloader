@@ -18,7 +18,7 @@ The download link HAS to be a direct downloading link, such as: ``https://www.ex
 
 Its important to note that u NEED to have the ``https://`` infront of your link to ensure the link will properly work.
 
-press [here](https://github.com/Bink-lab/PD-Powershell-Downloader/edit/main/README.md#-pre-download-links) to see some example links that u can use for the PD.
+press [here](https://github.com/Bink-lab/PD-Powershell-Downloader/tree/main?tab=readme-ov-file#-pre-download-links) to see some example links that u can use for the PD.
 ****************
 
 
