@@ -18,7 +18,7 @@ The download link HAS to be a direct downloading link, such as: ``https://www.ex
 
 Its important to note that u NEED to have the ``https://`` infront of your link to ensure the link will properly work.
 
-Go to the bottom of this page for a few pre-download links for often used Games/Apps.
+press [here](https://github.com/Bink-lab/PD-Powershell-Downloader/edit/main/README.md#-pre-download-links) to see some example links that u can use for the PD.
 ****************
 
 
@@ -26,7 +26,7 @@ Go to the bottom of this page for a few pre-download links for often used Games/
 
 Powershell downloader (PD) uses python code that has been compiled to a .EXE file using ``Nuitka``.
 
-For more information on ``Nuitka`` please go to their repository "https://github.com/Nuitka/Nuitka/tree/develop"
+For more information on ``Nuitka`` please go to their [repository](https://github.com/Nuitka/Nuitka/tree/develop)
 ****************
 
 
