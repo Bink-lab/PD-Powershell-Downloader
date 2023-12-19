@@ -4,7 +4,10 @@
 
 Powershell Downloader uses a fake powershell to download any type of files, this is made for a personal project but decided to upload it to github for more people to use.
 
-This is also usable on any computer, ( personally ill use this on a school pc ;) ).
+This is also usable on any computer, ( personally ill use this on a school computer ;) ).
+
+Maybe Linux soon.
+
 ****************
 
 # ✅ Usage
