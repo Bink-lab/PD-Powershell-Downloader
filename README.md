@@ -42,6 +42,16 @@ Go to the latest version and install, unless you would like an older version of 
 ****************
 
 
+# 🦠 False Positives
+
+With PD there is many false positives, this is due to the transformation from python modules to C++ code.
+
+``Nuitka`` compiles python code to C++ using an compiler.
+
+For more information on these false positives please head over to [this Stackoverflow page](https://stackoverflow.com/questions/69899867/python-script-distribution-on-windows-options-to-avoid-virus-false-positives)
+****************
+
+
 # 📶 Pre-Download Links
 
 Copy these into the prompt.
